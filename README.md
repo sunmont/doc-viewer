@@ -1,3 +1,7 @@
+
+Next.js app to render PDF, Word, Excel, and PPT files in a browse
+------------------------------------------------------------------
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
